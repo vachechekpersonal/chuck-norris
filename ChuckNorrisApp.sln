@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChuckNorrisApp", "ChuckNorrisApp\ChuckNorrisApp.csproj", "{4831FC6F-1B08-440C-8AE4-9FB734653536}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChuckNorrisTests", "ChuckNorrisTests\ChuckNorrisTests.csproj", "{E42F382A-0007-48F8-9FC3-A84B3E22EA68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4831FC6F-1B08-440C-8AE4-9FB734653536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4831FC6F-1B08-440C-8AE4-9FB734653536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4831FC6F-1B08-440C-8AE4-9FB734653536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4831FC6F-1B08-440C-8AE4-9FB734653536}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E42F382A-0007-48F8-9FC3-A84B3E22EA68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E42F382A-0007-48F8-9FC3-A84B3E22EA68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E42F382A-0007-48F8-9FC3-A84B3E22EA68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E42F382A-0007-48F8-9FC3-A84B3E22EA68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECD09D9D-64DA-4C51-942C-551E400FF957}
+	EndGlobalSection
+EndGlobal
